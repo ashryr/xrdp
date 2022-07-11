@@ -1,4 +1,4 @@
 #!/bin/bash
-# Free XRDP Aank is ME
+# Free XRDP 
 service ssh start
 service nginx start
